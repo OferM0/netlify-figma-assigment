@@ -1,0 +1,23 @@
+{
+  "name": "netlify-figma-assigment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OferM0/netlify-figma-assigment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OferM0/netlify-figma-assigment/issues"
+  },
+  "homepage": "https://github.com/OferM0/netlify-figma-assigment#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
